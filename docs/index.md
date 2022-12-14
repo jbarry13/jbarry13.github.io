@@ -1,3 +1,0 @@
-<Response>
-  <Speak voice="MAN" loop="3">Attention! The storage shed alarm has been activated!</Speak>
-</Response>
